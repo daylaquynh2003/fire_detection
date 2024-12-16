@@ -4,4 +4,4 @@
 
 +> Video demo: https://drive.google.com/file/d/11gGkkToZZfw5Re2pNUBXfGLlDuugV9C5/view?usp=sharing
 
-+> Chỉ cần chạy 3 file: detect.py - fire.pt - classes.txt
++> Chỉ cần chạy 3 file: detect.py - detect.pt - classes.txt
